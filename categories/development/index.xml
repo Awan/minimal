@@ -22,10 +22,10 @@ This document is a brief primer on using go templates.</description>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://abdullah.today/posts/hugoisforlovers/</link>
+      <link>https://abdullah.today/posts/hugoforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://abdullah.today/posts/hugoisforlovers/</guid>
+      <guid>https://abdullah.today/posts/hugoforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
